@@ -25,7 +25,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ApplicationLibrary\ApplicationLibrary.csproj" />
-    <ProjectReference Include="..\DataLibraryProject\DataLibraryProject.csproj" />
   </ItemGroup>
 
 </Project>
