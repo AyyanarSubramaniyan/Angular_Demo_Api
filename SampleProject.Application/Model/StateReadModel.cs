@@ -10,6 +10,7 @@ namespace ApplicationLibrary.Model
         public int CountryId { get; set; }
         public string StateName { get; set; }
         public bool IsActive { get; set; }
+        public bool IsPublic { get; set; }
         public string CountryName { get; set; }
     }
 
